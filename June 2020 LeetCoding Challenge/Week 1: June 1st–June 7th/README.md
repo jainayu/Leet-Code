@@ -1,6 +1,6 @@
 # Week 1: June 1st–June 7th
 
-## June 1st
+## Invert Binary Tree
 
 Invert a binary tree.
 
