@@ -1,4 +1,4 @@
-# Easy Collection
+# [Easy Collection](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
 
 ## [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
