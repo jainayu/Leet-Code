@@ -1,6 +1,6 @@
-# Week 1: June 1st–June 7th
+# [Week 1: June 1st–June 7th](https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/)
 
-## Invert Binary Tree
+## [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 
 Invert a binary tree.
 
@@ -25,7 +25,7 @@ Output:
 9   6 3   1
 ```
 
-## Delete Node in a Linked List
+## [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
 Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.
 
@@ -50,7 +50,7 @@ Note:
     The given node will not be the tail and it will always be a valid node of the linked list.
     Do not return anything from your function.
 
-## Two City Scheduling
+## [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
 
 There are 2N people a company is planning to interview. The cost of flying the i-th person to city A is costs[i][0], and the cost of flying the i-th person to city B is costs[i][1].
 
