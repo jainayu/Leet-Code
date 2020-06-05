@@ -1,6 +1,7 @@
 # [Easy Collection](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
 
-## [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+## [Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/)
+### [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 
@@ -40,7 +41,7 @@ for (int i = 0; i < len; i++) {
 }
 ```
 
-## [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+### [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
 Say you have an array prices for which the ith element is the price of a given stock on day i.
 
@@ -74,5 +75,56 @@ Constraints:
 
     1 <= prices.length <= 3 * 10 ^ 4
     0 <= prices[i] <= 10 ^ 4
+
+### [Rotate Array](https://leetcode.com/problems/rotate-array/)
+
+Given an array, rotate the array to the right by k steps, where k is non-negative.
+
+Follow up:
+
+    Try to come up as many solutions as you can, there are at least 3 different ways to solve this problem.
+    Could you do it in-place with O(1) extra space? 
+
+Example 1:
+```
+Input: nums = [1,2,3,4,5,6,7], k = 3
+Output: [5,6,7,1,2,3,4]
+Explanation:
+rotate 1 steps to the right: [7,1,2,3,4,5,6]
+rotate 2 steps to the right: [6,7,1,2,3,4,5]
+rotate 3 steps to the right: [5,6,7,1,2,3,4]
+```
+Example 2:
+```
+Input: nums = [-1,-100,3,99], k = 2
+Output: [3,99,-1,-100]
+Explanation: 
+rotate 1 steps to the right: [99,-1,-100,3]
+rotate 2 steps to the right: [3,99,-1,-100]
+```
+
+Constraints:
+
+    1 <= nums.length <= 2 * 10^4
+    It's guaranteed that nums[i] fits in a 32 bit-signed integer.
+    k >= 0
+
+### [Single Number](https://leetcode.com/problems/single-number/)
+
+Given a non-empty array of integers, every element appears twice except for one. Find that single one.
+
+Note:
+Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
+
+Example 1:
+```
+Input: [2,2,1]
+Output: 1
+```
+Example 2:
+```
+Input: [4,1,2,1,2]
+Output: 4
+```
 
 
