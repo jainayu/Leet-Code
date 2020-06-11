@@ -167,4 +167,145 @@ Output: [4,3,2,2]
 Explanation: The array represents the integer 4321.
 ```
 
+### [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+
+Given an array of integers, find if the array contains any duplicates.
+
+Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.
+
+Example 1:
+```
+Input: [1,2,3,1]
+Output: true
+```
+Example 2:
+```
+Input: [1,2,3,4]
+Output: false
+```
+Example 3:
+```
+Input: [1,1,1,3,3,4,3,2,4,2]
+Output: true
+```
+
+### [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+
+Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+
+Example:
+```
+Input: [0,1,0,3,12]
+Output: [1,3,12,0,0]
+```
+
+Note:
+
+-You must do this in-place without making a copy of the array.
+-Minimize the total number of operations.
+
+### [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+
+Determine if a 9x9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules:
+
+-Each row must contain the digits 1-9 without repetition.
+-Each column must contain the digits 1-9 without repetition.
+-Each of the 9 3x3 sub-boxes of the grid must contain the digits 1-9 without repetition.
+
+A partially filled sudoku which is valid.
+
+The Sudoku board could be partially filled, where empty cells are filled with the character '.'.
+
+Example 1:
+```
+Input:
+[
+  ["5","3",".",".","7",".",".",".","."],
+  ["6",".",".","1","9","5",".",".","."],
+  [".","9","8",".",".",".",".","6","."],
+  ["8",".",".",".","6",".",".",".","3"],
+  ["4",".",".","8",".","3",".",".","1"],
+  ["7",".",".",".","2",".",".",".","6"],
+  [".","6",".",".",".",".","2","8","."],
+  [".",".",".","4","1","9",".",".","5"],
+  [".",".",".",".","8",".",".","7","9"]
+]
+Output: true
+```
+Example 2:
+```
+Input:
+[
+  ["8","3",".",".","7",".",".",".","."],
+  ["6",".",".","1","9","5",".",".","."],
+  [".","9","8",".",".",".",".","6","."],
+  ["8",".",".",".","6",".",".",".","3"],
+  ["4",".",".","8",".","3",".",".","1"],
+  ["7",".",".",".","2",".",".",".","6"],
+  [".","6",".",".",".",".","2","8","."],
+  [".",".",".","4","1","9",".",".","5"],
+  [".",".",".",".","8",".",".","7","9"]
+]
+Output: false
+Explanation: Same as Example 1, except with the 5 in the top left corner being 
+    modified to 8. Since there are two 8's in the top left 3x3 sub-box, it is invalid.
+```
+Note:
+
+-A Sudoku board (partially filled) could be valid but is not necessarily solvable.
+-Only the filled cells need to be validated according to the mentioned rules.
+-The given board contain only digits 1-9 and the character '.'.
+-The given board size is always 9x9.
+
+### [Rotate Image](https://leetcode.com/problems/rotate-image/)
+
+You are given an n x n 2D matrix representing an image.
+
+Rotate the image by 90 degrees (clockwise).
+
+Note:
+
+You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
+
+Example 1:
+```
+Given input matrix = 
+[
+  [1,2,3],
+  [4,5,6],
+  [7,8,9]
+],
+
+rotate the input matrix in-place such that it becomes:
+[
+  [7,4,1],
+  [8,5,2],
+  [9,6,3]
+]
+```
+Example 2:
+```
+Given input matrix =
+[
+  [ 5, 1, 9,11],
+  [ 2, 4, 8,10],
+  [13, 3, 6, 7],
+  [15,14,12,16]
+], 
+
+rotate the input matrix in-place such that it becomes:
+[
+  [15,13, 2, 5],
+  [14, 3, 4, 1],
+  [12, 6, 8, 9],
+  [16, 7,10,11]
+]
+```
+
+
+
+
+
+
+
 
