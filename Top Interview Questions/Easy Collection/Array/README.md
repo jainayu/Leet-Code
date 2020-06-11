@@ -1,6 +1,5 @@
-# [Easy Collection](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
-
 ## [Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/)
+
 ### [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
