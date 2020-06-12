@@ -42,6 +42,7 @@ Output: 21
 Note:
 Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−231,  231 − 1]. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.
 
+
 ### [ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
 Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
@@ -56,6 +57,7 @@ return 2.
 ```
 
 Note: You may assume the string contain only lowercase English letters.
+
 
 ### [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
