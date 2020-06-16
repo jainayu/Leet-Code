@@ -198,6 +198,28 @@ Output: "1211"
 Explanation: For n = 3 the term was "21" in which we have two groups "2" and "1", "2" can be read as "12" which means frequency = 1 and value = 2, the same way "1" is read as "11", so the answer is the concatenation of "12" and "11" which is "1211".
 ```
 
+### [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+
+Write a function to find the longest common prefix string amongst an array of strings.
+
+If there is no common prefix, return an empty string "".
+
+Example 1:
+```
+Input: ["flower","flow","flight"]
+Output: "fl"
+```
+Example 2:
+```
+Input: ["dog","racecar","car"]
+Output: ""
+Explanation: There is no common prefix among the input strings.
+```
+Note:
+
+All given inputs are in lowercase letters a-z.
+
+
 
 
 
