@@ -45,10 +45,10 @@ Explanation: You are given the third node with value 1, the linked list should b
 ```
 Note:
 
-    The linked list will have at least two elements.
-    All of the nodes' values will be unique.
-    The given node will not be the tail and it will always be a valid node of the linked list.
-    Do not return anything from your function.
+- The linked list will have at least two elements.
+- All of the nodes' values will be unique.
+- The given node will not be the tail and it will always be a valid node of the linked list.
+- Do not return anything from your function.
 
 ## [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
 
