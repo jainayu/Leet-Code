@@ -1,6 +1,6 @@
-## [Week 1: July 1st - July 7th](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/)
+# [Week 1: July 1st - July 7th](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/)
 
-### [Arranging Coins](https://leetcode.com/problems/arranging-coins/)
+## [Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 
 You have a total of n coins that you want to form in a staircase shape, where every k-th row must have exactly k coins.
 
