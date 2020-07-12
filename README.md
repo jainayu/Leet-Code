@@ -4,7 +4,6 @@ Solved questions from leet code. You can view my leet code profile by clicking [
 ## Table of Content
 
 **1. July2020LeetCodingChallenge**
-
-  **Week 1**
+**- Week 1 **
   - [Arranging Coins](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/"ArrangingCoins.cpp")
     
