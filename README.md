@@ -14,7 +14,7 @@ Solved questions from leet code. You can view my leet code profile by clicking [
   - [Plus One](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/PlusOne.cpp "PlusOne.cpp")
   - [Island Perimeter](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/IslandPerimeter.cpp "IslandPerimeter.cpp")
   
-**Week 2**
+**[Week 2](https://github.com/jainayu/Leet-Code/tree/master/July2020LeetCodingChallenge/Week%202:%20July%208th%20-%20July%2014th)**
   - [3 Sum](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%202:%20July%208th%20-%20July%2014th/3Sum.cpp "3Sum.cpp")
   - [Maximum Width of Binary Tree](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%202:%20July%208th%20-%20July%2014th/MaximumWidthofBinaryTree.cpp "MaximumWidthofBinaryTree.cpp")
   - [Flattena Multilevel Doubly Linked List](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%202:%20July%208th%20-%20July%2014th/FlattenaMultilevelDoublyLinkedList.cpp "FlattenaMultilevelDoublyLinkedList.cpp")
