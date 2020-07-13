@@ -5,7 +5,7 @@ Solved questions from leet code. You can view my leet code profile by clicking [
 
 **1. July2020LeetCodingChallenge**
 
-**Week 1**
+**[Week 1](https://github.com/jainayu/Leet-Code/tree/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th)**
   - [Arranging Coins](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/ArrangingCoins.cpp "ArrangingCoins.cpp")
   - [Binary Tree Level Order Traversal II](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/BinaryTreeLevelOrderTraversalII.cpp "BinaryTreeLevelOrderTraversalII.cpp")
   - [Prison Cells After N Days](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/PrisonCellsAfterNDays.cpp "PrisonCellsAfterNDays.cpp")
