@@ -3,7 +3,12 @@ Solved questions from leet code. You can view my leet code profile by clicking [
 
 ## Table of Content
 
-**1. July2020LeetCodingChallenge**
+**1. June2020LeetCodingChallenge**
+**[Week 1](https://github.com/jainayu/Leet-Code/tree/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th)**
+  - [Invert Binary Tree](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/InvertBinaryTree.cpp "InvertBinaryTree.cpp")
+  - [Delete Node in a Linked List](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/DeleteNodeinaLinkedList.cpp "DeleteNodeinaLinkedList.cpp")
+
+**2. July2020LeetCodingChallenge**
 
 **[Week 1](https://github.com/jainayu/Leet-Code/tree/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th)**
   - [Arranging Coins](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/ArrangingCoins.cpp "ArrangingCoins.cpp")
