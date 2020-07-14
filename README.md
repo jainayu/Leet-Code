@@ -9,6 +9,7 @@ Solved questions from leet code. You can view my leet code profile by clicking [
   - [Invert Binary Tree](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/InvertBinaryTree.cpp "InvertBinaryTree.cpp")
   - [Delete Node in a Linked List](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/DeleteNodeinaLinkedList.cpp "DeleteNodeinaLinkedList.cpp")
   - [Two City Scheduling](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/TwoCityScheduling.cpp "TwoCityScheduling.cpp")
+  - [Reverse String](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/ReverseString.cpp "ReverseString.cpp")
 
 **2. July2020LeetCodingChallenge**
 
