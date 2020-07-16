@@ -18,6 +18,7 @@ Solved questions from leet code. You can view my leet code profile by clicking [
   - [Power of Two](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/PowerofTwo.cpp "PowerofTwo.cpp")
   - [Is Subsequence](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/IsSubsequence.cpp "IsSubsequence.cpp")
   - [Search Insert Position](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/SearchInsertPosition.cpp)
+  - [Sort Colors](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/SortColors.cpp)
 
 **2. July2020LeetCodingChallenge**
 
