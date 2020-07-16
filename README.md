@@ -14,6 +14,9 @@ Solved questions from leet code. You can view my leet code profile by clicking [
   - [Queue Reconstruction by Height](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/QueueReconstructionbyHeight.cpp "QueueReconstructionbyHeight.cpp")
   - [Coin Change 2](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/CoinChange2.cpp "CoinChange2.cpp")
 
+**[Week 2](https://github.com/jainayu/Leet-Code/tree/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th)**
+  - [Power of Two](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/PowerofTwo.cpp "PowerofTwo.cpp")
+
 **2. July2020LeetCodingChallenge**
 
 **[Week 1](https://github.com/jainayu/Leet-Code/tree/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th)**
