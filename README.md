@@ -16,6 +16,7 @@ Solved questions from leet code. You can view my leet code profile by clicking [
 
 **[Week 2](https://github.com/jainayu/Leet-Code/tree/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th)**
   - [Power of Two](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/PowerofTwo.cpp "PowerofTwo.cpp")
+  - [Is Subsequence](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/IsSubsequence.cpp "IsSubsequence.cpp")
 
 **2. July2020LeetCodingChallenge**
 
