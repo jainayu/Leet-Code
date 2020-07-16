@@ -11,7 +11,7 @@ Solved questions from leet code. You can view my leet code profile by clicking [
   - [Two City Scheduling](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/TwoCityScheduling.cpp "TwoCityScheduling.cpp")
   - [Reverse String](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/ReverseString.cpp "ReverseString.cpp")
   - [Random Pick with Weight](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/RandomPickwithWeight.cpp "RandomPickwithWeight.cpp")
-  - []()
+  - [Queue Reconstruction by Height](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/QueueReconstructionbyHeight.cpp "QueueReconstructionbyHeight.cpp")
   - []()
 
 **2. July2020LeetCodingChallenge**
