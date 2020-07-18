@@ -22,6 +22,9 @@ Solved questions from leet code. You can view my leet code profile by clicking [
   - [Insert Delete Get Random O(1)](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/InsertDeleteGetRandomO(1).java "InsertDeleteGetRandomO(1).java")
   - [Largest Divisible Subset](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/LargestDivisibleSubset.cpp "LargestDivisibleSubset.cpp")
   - [Cheapest Flights Within K Stops](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/CheapestFlightsWithinKStops.cpp "CheapestFlightsWithinKStops.cpp")
+  
+**[Week 3](https://github.com/jainayu/Leet-Code/tree/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st)**
+  - [Search in a Binary Search Tree](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/SearchinaBinarySearchTree.cpp "SearchinaBinarySearchTree.cpp")
 
 **2. July2020LeetCodingChallenge**
 
