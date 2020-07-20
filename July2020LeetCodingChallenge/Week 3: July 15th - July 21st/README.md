@@ -105,3 +105,12 @@ Note:
 - The input prerequisites is a graph represented by a list of edges, not adjacency matrices. Read more about how a graph is represented.
 - You may assume that there are no duplicate edges in the input prerequisites.
 
+## [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+
+Remove all elements from a linked list of integers that have value val.
+
+Example:
+```
+Input:  1->2->6->3->4->5->6, val = 6
+Output: 1->2->3->4->5
+```
