@@ -35,3 +35,48 @@ Note:
 - The order of the result is not important. So in the above example, `[5, 3]` is also correct.
 - Your algorithm should run in linear runtime complexity. Could you implement it using only constant space complexity?
 
+## [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
+
+Given a directed, acyclic graph of `N` nodes.  Find all possible paths from node `0` to node `N-1`, and return them in any order.
+
+The graph is given as follows:  the nodes are 0, 1, ..., graph.length - 1.  graph[i] is a list of all nodes j for which the edge (i, j) exists.
+
+Example:
+```
+Input: [[1,2], [3], [3], []] 
+Output: [[0,1,3],[0,2,3]] 
+Explanation: The graph looks like this:
+0--->1
+|    |
+v    v
+2--->3
+There are two paths: 0 -> 1 -> 3 and 0 -> 2 -> 3.
+```
+Note:
+- The number of nodes in the graph will be in the range `[2, 15]`.
+- You can print different paths in any order, but you should keep the order of nodes inside one path.
+
+## [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+
+Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
+
+(i.e.,  `[0,1,2,4,5,6,7]` might become  `[4,5,6,7,0,1,2]`).
+
+Find the minimum element.
+
+The array may contain duplicates.
+
+Example 1:
+```
+Input: [1,3,5]
+Output: 1
+```
+Example 2:
+```
+Input: [2,2,2,0,1]
+Output: 0
+```
+Note:
+- This is a follow up problem to Find Minimum in Rotated Sorted Array.
+- Would allow duplicates affect the run-time complexity? How and why?
+
