@@ -134,7 +134,7 @@ Follow up:
 
 Could you optimize your algorithm to use only O(k) extra space?
 
-## []
+## [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)
 
 Design an Iterator class, which has:
 - A constructor that takes a string characters of sorted distinct lowercase English letters and a number combinationLength as arguments.
@@ -158,6 +158,25 @@ Constraints:
 - There will be at most `10^4` function calls per test.
 - It's guaranteed that all calls of the function `next` are valid.
 
+## [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+Given a string which consists of lowercase or uppercase letters, find the length of the longest palindromes that can be built with those letters.
+
+This is case sensitive, for example "Aa" is not considered a palindrome here.
+
+Note:
+Assume the length of given string will not exceed 1,010.
+
+Example:
+```
+Input:
+"abccccdd"
+
+Output:
+7
+
+Explanation:
+One longest palindrome that can be built is "dccaccd", whose length is 7.
+```
 
 
 
