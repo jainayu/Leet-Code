@@ -66,7 +66,7 @@ Given an input array nums, where nums[i] ≠ nums[i+1], find a peak element and 
 
 The array may contain multiple peaks, in that case return the index to any one of the peaks is fine.
 
-You may imagine that nums[-1] = nums[n] = -∞.
+You may imagine that `nums[-1]` = `nums[n]` = `-∞`.
 
 Example 1:
 ```
@@ -83,9 +83,9 @@ Explanation: Your function can return either index number 1 where the peak eleme
 ```
 Follow up: Your solution should be in logarithmic complexity.
 
-## [Backspace String Compare]()
+## [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 
-Given two strings S and T, return if they are equal when both are typed into empty text editors. # means a backspace character.
+Given two strings S and T, return if they are equal when both are typed into empty text editors. `#` means a backspace character.
 
 Note that after backspacing an empty text, the text will continue empty.
 
@@ -120,6 +120,26 @@ Note:
 
 Follow up:
 - Can you solve it in O(N) time and O(1) space?
+
+## [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+
+Given an array of integers and an integer k, find out whether there are two distinct indices i and j in the array such that nums[i] = nums[j] and the absolute difference between i and j is at most k.
+
+Example 1:
+```
+Input: nums = [1,2,3,1], k = 3
+Output: true
+```
+Example 2:
+```
+Input: nums = [1,0,1,1], k = 1
+Output: true
+```
+Example 3:
+```
+Input: nums = [1,2,3,1,2,3], k = 2
+Output: false
+```
 
 
 
