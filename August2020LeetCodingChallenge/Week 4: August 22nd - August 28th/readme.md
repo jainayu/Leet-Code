@@ -62,6 +62,22 @@ Note:
 - Words will only consist of lowercase English letters.
 - Queries will only consist of lowercase English letters.
 - The number of queries is at most 40000.
+```
+
+## [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
+
+Find the sum of all left leaves in a given binary tree.
+```
+Example:
+
+    3
+   / \
+  9  20
+    /  \
+   15   7
+
+There are two left leaves in the binary tree, with values 9 and 15 respectively. Return 24.
+```
 
 
 
