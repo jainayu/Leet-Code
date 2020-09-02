@@ -17,7 +17,7 @@ Solved questions from leet code. You can view my leet code profile by clicking [
 11. [Hamming Distance](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/HammingDistance.cpp "HammingDistance.cpp")
 12. [Plus One](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/PlusOne.cpp "PlusOne.cpp")
 13. [Island Perimeter](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/IslandPerimeter.cpp "IslandPerimeter.cpp")
-14. - [Reverse Bits](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%202:%20July%208th%20-%20July%2014th/ReverseBits.cpp "ReverseBits.cpp")
+14. [Reverse Bits](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%202:%20July%208th%20-%20July%2014th/ReverseBits.cpp "ReverseBits.cpp")
 15. [Same Tree](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%202:%20July%208th%20-%20July%2014th/SameTree.cpp "SameTree.cpp")
 
 **Medium**
