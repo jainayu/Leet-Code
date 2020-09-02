@@ -8,27 +8,24 @@ Solved questions from leet code. You can view my leet code profile by clicking [
 1. [Invert Binary Tree](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/InvertBinaryTree.cpp "InvertBinaryTree.cpp") 
 2. [Delete Node in a Linked List](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/DeleteNodeinaLinkedList.cpp "DeleteNodeinaLinkedList.cpp")
 3. [Reverse String](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/ReverseString.cpp "ReverseString.cpp")
-4. 
+4. [Power of Two](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/PowerofTwo.cpp "PowerofTwo.cpp")
+5. [Is Subsequence](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/IsSubsequence.cpp "IsSubsequence.cpp")
+6. [Search Insert Position](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/SearchInsertPosition.cpp "SearchInsertPosition.cpp")
 
 **Medium**
 1. [Two City Scheduling](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/TwoCityScheduling.cpp "TwoCityScheduling.cpp")
 2. [Random Pick with Weight](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/RandomPickwithWeight.cpp "RandomPickwithWeight.cpp")
 3. [Queue Reconstruction by Height](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/QueueReconstructionbyHeight.cpp "QueueReconstructionbyHeight.cpp")
 4. [Coin Change 2](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/CoinChange2.cpp "CoinChange2.cpp")
+5. [Sort Colors](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/SortColors.cpp)
+6. [Insert Delete Get Random O(1)](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/InsertDeleteGetRandomO(1).java "InsertDeleteGetRandomO(1).java")
+7. [Largest Divisible Subset](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/LargestDivisibleSubset.cpp "LargestDivisibleSubset.cpp")
+8. [Cheapest Flights Within K Stops](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/CheapestFlightsWithinKStops.cpp "CheapestFlightsWithinKStops.cpp")
 
 **Hard**
 
 **1. June2020LeetCodingChallenge**
 
-**[Week 2](https://github.com/jainayu/Leet-Code/tree/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th)**
-  - [Power of Two](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/PowerofTwo.cpp "PowerofTwo.cpp")
-  - [Is Subsequence](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/IsSubsequence.cpp "IsSubsequence.cpp")
-  - [Search Insert Position](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/SearchInsertPosition.cpp "SearchInsertPosition.cpp")
-  - [Sort Colors](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/SortColors.cpp)
-  - [Insert Delete Get Random O(1)](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/InsertDeleteGetRandomO(1).java "InsertDeleteGetRandomO(1).java")
-  - [Largest Divisible Subset](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/LargestDivisibleSubset.cpp "LargestDivisibleSubset.cpp")
-  - [Cheapest Flights Within K Stops](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/CheapestFlightsWithinKStops.cpp "CheapestFlightsWithinKStops.cpp")
-  
 **[Week 3](https://github.com/jainayu/Leet-Code/tree/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st)**
   - [Search in a Binary Search Tree](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/SearchinaBinarySearchTree.cpp "SearchinaBinarySearchTree.cpp")
   - [Validate IP Address](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/ValidateIPAddress.cpp)
