@@ -13,6 +13,11 @@ Solved questions from leet code. You can view my leet code profile by clicking [
 6. [Search Insert Position](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/SearchInsertPosition.cpp "SearchInsertPosition.cpp")
 7. [Search in a Binary Search Tree](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/SearchinaBinarySearchTree.cpp "SearchinaBinarySearchTree.cpp")
 8. [Validate IP Address](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/ValidateIPAddress.cpp)
+9. [Arranging Coins](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/ArrangingCoins.cpp "ArrangingCoins.cpp")
+10. [Binary Tree Level Order Traversal II](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/BinaryTreeLevelOrderTraversalII.cpp "BinaryTreeLevelOrderTraversalII.cpp")
+11. [Hamming Distance](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/HammingDistance.cpp "HammingDistance.cpp")
+12. [Plus One](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/PlusOne.cpp "PlusOne.cpp")
+13. [Island Perimeter](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/IslandPerimeter.cpp "IslandPerimeter.cpp")
 
 
 **Medium**
@@ -26,6 +31,8 @@ Solved questions from leet code. You can view my leet code profile by clicking [
 8. [Cheapest Flights Within K Stops](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/CheapestFlightsWithinKStops.cpp "CheapestFlightsWithinKStops.cpp")
 9. [Surrounded Regions](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/SurroundedRegions.cpp)
 10. [H-Index II](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/H-IndexII.cpp)
+11. [Prison Cells After N Days](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/PrisonCellsAfterNDays.cpp "PrisonCellsAfterNDays.cpp")
+12. [Ugly Number II](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/UglyNumberII.cpp "UglyNumberII.cpp")
 
 **Hard**
 1. [Longest Duplicate Substring](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/LongestDuplicateSubstring.cpp "LongestDuplicateSubstring.cpp")
@@ -33,15 +40,6 @@ Solved questions from leet code. You can view my leet code profile by clicking [
 3. [Dungeon Game](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/DungeonGame.cpp "DungeonGame.cpp")
 
 **2. July2020LeetCodingChallenge**
-
-**[Week 1](https://github.com/jainayu/Leet-Code/tree/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th)**
-  - [Arranging Coins](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/ArrangingCoins.cpp "ArrangingCoins.cpp")
-  - [Binary Tree Level Order Traversal II](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/BinaryTreeLevelOrderTraversalII.cpp "BinaryTreeLevelOrderTraversalII.cpp")
-  - [Prison Cells After N Days](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/PrisonCellsAfterNDays.cpp "PrisonCellsAfterNDays.cpp")
-  - [Ugly Number II](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/UglyNumberII.cpp "UglyNumberII.cpp")
-  - [Hamming Distance](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/HammingDistance.cpp "HammingDistance.cpp")
-  - [Plus One](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/PlusOne.cpp "PlusOne.cpp")
-  - [Island Perimeter](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%201:%20July%201st%20-%20July%207th/IslandPerimeter.cpp "IslandPerimeter.cpp")
   
 **[Week 2](https://github.com/jainayu/Leet-Code/tree/master/July2020LeetCodingChallenge/Week%202:%20July%208th%20-%20July%2014th)**
   - [3 Sum](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%202:%20July%208th%20-%20July%2014th/3Sum.cpp "3Sum.cpp")
