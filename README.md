@@ -2,26 +2,23 @@
 Solved questions from leet code. You can view my leet code profile by clicking [here (jainayu)](https://leetcode.com/jainayu/).
 
 ## Table of Content
-<div class="text-green mb-2">
+
 **Easy**
-</div>
+
 1. [Invert Binary Tree](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/InvertBinaryTree.cpp "InvertBinaryTree.cpp") 
-2. 
+2. [Delete Node in a Linked List](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/DeleteNodeinaLinkedList.cpp "DeleteNodeinaLinkedList.cpp")
+3. [Reverse String](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/ReverseString.cpp "ReverseString.cpp")
+4. 
 
 **Medium**
+1. [Two City Scheduling](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/TwoCityScheduling.cpp "TwoCityScheduling.cpp")
+2. [Random Pick with Weight](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/RandomPickwithWeight.cpp "RandomPickwithWeight.cpp")
+3. [Queue Reconstruction by Height](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/QueueReconstructionbyHeight.cpp "QueueReconstructionbyHeight.cpp")
+4. [Coin Change 2](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/CoinChange2.cpp "CoinChange2.cpp")
 
 **Hard**
 
 **1. June2020LeetCodingChallenge**
-
-**[Week 1](https://github.com/jainayu/Leet-Code/tree/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th)**
-  
-  - [Delete Node in a Linked List](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/DeleteNodeinaLinkedList.cpp "DeleteNodeinaLinkedList.cpp")
-  - [Two City Scheduling](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/TwoCityScheduling.cpp "TwoCityScheduling.cpp")
-  - [Reverse String](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/ReverseString.cpp "ReverseString.cpp")
-  - [Random Pick with Weight](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/RandomPickwithWeight.cpp "RandomPickwithWeight.cpp")
-  - [Queue Reconstruction by Height](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/QueueReconstructionbyHeight.cpp "QueueReconstructionbyHeight.cpp")
-  - [Coin Change 2](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/CoinChange2.cpp "CoinChange2.cpp")
 
 **[Week 2](https://github.com/jainayu/Leet-Code/tree/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th)**
   - [Power of Two](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/PowerofTwo.cpp "PowerofTwo.cpp")
