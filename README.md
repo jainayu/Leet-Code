@@ -11,6 +11,9 @@ Solved questions from leet code. You can view my leet code profile by clicking [
 4. [Power of Two](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/PowerofTwo.cpp "PowerofTwo.cpp")
 5. [Is Subsequence](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/IsSubsequence.cpp "IsSubsequence.cpp")
 6. [Search Insert Position](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/SearchInsertPosition.cpp "SearchInsertPosition.cpp")
+7. [Search in a Binary Search Tree](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/SearchinaBinarySearchTree.cpp "SearchinaBinarySearchTree.cpp")
+8. [Validate IP Address](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/ValidateIPAddress.cpp)
+
 
 **Medium**
 1. [Two City Scheduling](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/TwoCityScheduling.cpp "TwoCityScheduling.cpp")
@@ -21,19 +24,13 @@ Solved questions from leet code. You can view my leet code profile by clicking [
 6. [Insert Delete Get Random O(1)](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/InsertDeleteGetRandomO(1).java "InsertDeleteGetRandomO(1).java")
 7. [Largest Divisible Subset](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/LargestDivisibleSubset.cpp "LargestDivisibleSubset.cpp")
 8. [Cheapest Flights Within K Stops](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%202:%20June%208th%E2%80%93June%2014th/CheapestFlightsWithinKStops.cpp "CheapestFlightsWithinKStops.cpp")
+9. [Surrounded Regions](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/SurroundedRegions.cpp)
+10. [H-Index II](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/H-IndexII.cpp)
 
 **Hard**
-
-**1. June2020LeetCodingChallenge**
-
-**[Week 3](https://github.com/jainayu/Leet-Code/tree/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st)**
-  - [Search in a Binary Search Tree](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/SearchinaBinarySearchTree.cpp "SearchinaBinarySearchTree.cpp")
-  - [Validate IP Address](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/ValidateIPAddress.cpp)
-  - [Surrounded Regions](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/SurroundedRegions.cpp)
-  - [H-Index II](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/H-IndexII.cpp)
-  - [Longest Duplicate Substring](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/LongestDuplicateSubstring.cpp "LongestDuplicateSubstring.cpp")
-  - [Permutation Sequence](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/PermutationSequence.cpp "PermutationSequence.cpp")
-  - [Dungeon Game](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/DungeonGame.cpp "DungeonGame.cpp")
+1. [Longest Duplicate Substring](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/LongestDuplicateSubstring.cpp "LongestDuplicateSubstring.cpp")
+2. [Permutation Sequence](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/PermutationSequence.cpp "PermutationSequence.cpp")
+3. [Dungeon Game](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/DungeonGame.cpp "DungeonGame.cpp")
 
 **2. July2020LeetCodingChallenge**
 
