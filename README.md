@@ -2,11 +2,20 @@
 Solved questions from leet code. You can view my leet code profile by clicking [here (jainayu)](https://leetcode.com/jainayu/).
 
 ## Table of Content
+<div class="text-green mb-2">
+**Easy**
+</div>
+1. [Invert Binary Tree](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/InvertBinaryTree.cpp "InvertBinaryTree.cpp") 
+2. 
+
+**Medium**
+
+**Hard**
 
 **1. June2020LeetCodingChallenge**
 
 **[Week 1](https://github.com/jainayu/Leet-Code/tree/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th)**
-  - [Invert Binary Tree](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/InvertBinaryTree.cpp "InvertBinaryTree.cpp")
+  
   - [Delete Node in a Linked List](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/DeleteNodeinaLinkedList.cpp "DeleteNodeinaLinkedList.cpp")
   - [Two City Scheduling](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/TwoCityScheduling.cpp "TwoCityScheduling.cpp")
   - [Reverse String](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%201:%20June%201st%E2%80%93June%207th/ReverseString.cpp "ReverseString.cpp")
