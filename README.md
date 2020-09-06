@@ -38,6 +38,7 @@ Solved questions from leet code. You can view my leet code profile by clicking [
 15. [Flattena Multilevel Doubly Linked List](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%202:%20July%208th%20-%20July%2014th/FlattenaMultilevelDoublyLinkedList.cpp "FlattenaMultilevelDoublyLinkedList.cpp")
 16. [Subsets](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%202:%20July%208th%20-%20July%2014th/Subsets.cpp "Subsets.cpp")
 17. [Reverse Words in a String](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%203:%20July%2015th%20-%20July%2021st/ReverseWordsinaString.cpp "ReverseWordsinaString.cpp")
+18. [Pow(x, n)](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%203:%20July%2015th%20-%20July%2021st/Pow(x%2Cn).cpp "Pow(x, n).cpp")
 
 **Hard**
 1. [Longest Duplicate Substring](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/LongestDuplicateSubstring.cpp "LongestDuplicateSubstring.cpp")
