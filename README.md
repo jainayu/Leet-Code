@@ -40,6 +40,7 @@ Solved questions from leet code. You can view my leet code profile by clicking [
 17. [Reverse Words in a String](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%203:%20July%2015th%20-%20July%2021st/ReverseWordsinaString.cpp "ReverseWordsinaString.cpp")
 18. [Pow(x, n)](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%203:%20July%2015th%20-%20July%2021st/Pow(x%2Cn).cpp "Pow(x, n).cpp")
 19. [Top K Frequent Elements](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%203:%20July%2015th%20-%20July%2021st/TopKFrequentElements.cpp "TopKFrequentElements.cpp")
+20. [Course Schedule II](https://github.com/jainayu/Leet-Code/blob/master/July2020LeetCodingChallenge/Week%203:%20July%2015th%20-%20July%2021st/CourseScheduleII.java "CourseScheduleII.java")
 
 **Hard**
 1. [Longest Duplicate Substring](https://github.com/jainayu/Leet-Code/blob/master/June2020LeetCodingChallenge/Week%203:%20June%2015th%E2%80%93June%2021st/LongestDuplicateSubstring.cpp "LongestDuplicateSubstring.cpp")
